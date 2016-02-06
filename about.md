@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-### About me
+### Jennifer at Robotslike.me
 
 Former cake decorator, current artist and web developer.
 
