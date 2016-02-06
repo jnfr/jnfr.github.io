@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-Some information about you!
 
 ### About me
 
 Former cake decorator, current artist and web developer.
+
 
 ### Contact me
 
