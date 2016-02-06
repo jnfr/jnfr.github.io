@@ -1,0 +1,4 @@
+type: CNAME
+host: www.robotslike.me
+answer: jnfr.github.io
+TTL: 300
